@@ -1,0 +1,26 @@
+h6{
+    color:yellow; 
+    font-size: 25px;
+    /* background:red; */
+    background-image: url(../foto.jpg);
+    display: inline;
+    margin: 25px 25px 25 px 25 px;
+    padding: 25px;
+    border: solid 2px black;
+}
+button{
+    background:red;
+    color: #EFFBF8;
+    padding: 5px;
+    border-radius: 3px;
+}
+p.tituloverder{
+    color:#04B404;
+}
+p.tituloverder i{
+    color:#0000;
+}
+#titulorosa{
+    color:rosybrown;
+    fontsize: 25px;
+}
